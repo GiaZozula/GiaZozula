@@ -17,14 +17,10 @@ Developed enterprise e-commerce and autonomous retail systems, building features
 - Order management and payment processing (Primer, Adyen)
 - Real-time analytics dashboards
 - Role-based authentication and access control
-- Shopify POS integrations
+- Shopify POS embedded app
 
 ## 📫 Get in Touch
 
-🌐 [giazozula.com](https://giazozula.com)  
+🌐 [dev.giazozula.com](https://dev.giazozula.com)  
 💼 [LinkedIn](https://linkedin.com/in/giazozula)  
 📧 [giazozula@gmail.com](mailto:giazozula@gmail.com)
-
----
-
-_Building with Elixir by day, exploring new tech by night._
