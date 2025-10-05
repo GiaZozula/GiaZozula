@@ -21,6 +21,5 @@ Developed enterprise e-commerce and autonomous retail systems, building features
 
 ## 📫 Get in Touch
 
-🌐 [dev.giazozula.com](https://dev.giazozula.com)  
 💼 [LinkedIn](https://linkedin.com/in/giazozula)  
-📧 [giazozula@gmail.com](mailto:giazozula@gmail.com)
+🌐 [dev.giazozula.com](https://dev.giazozula.com) 
