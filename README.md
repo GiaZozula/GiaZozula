@@ -1,8 +1,6 @@
-# Hello :)
+# Hello!
 
 I'm a Full-stack Engineer specializing in **Elixir**, **Phoenix LiveView**, and **React**.
-
-I build production-grade web applications with a focus on real-time systems, payment integrations, and multi-tenant architectures.
 
 ## Tech Stack
 
