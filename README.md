@@ -1,6 +1,6 @@
-# Hello, I'm Gia. 
+# Hello :)
 
-Full-stack engineer specializing in **Elixir**, **Phoenix LiveView**, and **React**.
+I'm a Full-stack Engineer specializing in **Elixir**, **Phoenix LiveView**, and **React**.
 
 I build production-grade web applications with a focus on real-time systems, payment integrations, and multi-tenant architectures.
 
@@ -21,5 +21,5 @@ Developed enterprise e-commerce and autonomous retail systems, building features
 
 ## Get in Touch
 
-💼 [LinkedIn](https://linkedin.com/in/giazozula)  
-🌐 [dev.giazozula.com](https://dev.giazozula.com) 
+[LinkedIn](https://linkedin.com/in/giazozula)  
+[dev.giazozula.com](https://dev.giazozula.com) 
