@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a Full-stack Engineer specializing in **Elixir**, **Phoenix LiveView**, and **React**.
+I'm a full-stack engineer specializing in **Elixir**, **Phoenix LiveView**, and **React**.
 
 ## Tech Stack
 
@@ -9,15 +9,8 @@ React • TypeScript • Remix • Node.js • JavaScript (ES6+)
 REST APIs • GraphQL • Shopify APIs • Payment Gateways  
 Git • Fly.io • Linear • Figma
 
-## Experience
+## Recent Work
 
-Developed enterprise e-commerce and autonomous retail systems, building features like:
-- Order management and payment processing (Primer, Adyen)
-- Real-time analytics dashboards
-- Role-based authentication and access control
-- Shopify POS embedded app
+Built enterprise autonomous retail systems including payment processing (Primer, Adyen), real-time analytics dashboards, role-based access control, and Shopify POS integrations.
 
-## Get in Touch
-
-[LinkedIn](https://linkedin.com/in/giazozula)  
-[dev.giazozula.com](https://dev.giazozula.com) 
+[LinkedIn](https://linkedin.com/in/giazozula) • [giazozula.com](https://giazozula.com)
