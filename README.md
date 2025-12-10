@@ -10,4 +10,4 @@ REST APIs • GraphQL • Shopify APIs • Payment Gateways
 
 Built enterprise autonomous retail systems including payment processing (Primer, Adyen), real-time analytics dashboards, role-based access control, and Shopify POS integrations.
 
-[LinkedIn](https://linkedin.com/in/giazozula) • [giazozula.com](https://giazozula.com)
+[LinkedIn](https://linkedin.com/in/giazozula) • [dev.giazozula.com](https://dev.giazozula.com/)
