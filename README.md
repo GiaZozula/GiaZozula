@@ -1,13 +1,10 @@
 # Hello!
 
-I'm a full-stack engineer specializing in **Elixir**, **Phoenix LiveView**, and **React**.
-
-## Tech Stack
+I'm a full-stack engineer working with:
 
 Elixir • Phoenix • Phoenix LiveView • PostgreSQL • Ecto • TailwindCSS  
 React • TypeScript • Remix • Node.js • JavaScript (ES6+)  
-REST APIs • GraphQL • Shopify APIs • Payment Gateways  
-Git • Fly.io • Linear • Figma
+REST APIs • GraphQL • Shopify APIs • Payment Gateways
 
 ## Recent Work
 
