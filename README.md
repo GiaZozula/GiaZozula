@@ -1,13 +1,13 @@
-# Hello!
+## Hello!
 
-I'm a full-stack engineer working with:
+I'm a full stack software engineer. I specialize in payments, integrations, and staff tooling.
 
-Elixir • Phoenix • Phoenix LiveView • PostgreSQL • Ecto • TailwindCSS  
-React • TypeScript • Remix • Node.js • JavaScript (ES6+)  
-REST APIs • GraphQL • Shopify APIs • Payment Gateways
+### Recent Work
 
-## Recent Work
+I led delivery on a multi-tenant autonomous checkout platform processing $1M+ a year across 10+ stores, including major retail chains. That included Primer and Adyen payment flows, an embedded Shopify POS app, and a real-time order system used for thousands of production orders.
 
-Built enterprise autonomous retail systems including payment processing (Primer, Adyen), real-time analytics dashboards, role-based access control, and Shopify POS integrations. Also solo-developing a 3D game in my spare time :)
+I'm also solo-building a third-person 3D action game in Godot :)
 
-[LinkedIn](https://linkedin.com/in/giazozula) • [dev.giazozula.com](https://dev.giazozula.com/)
+You can also find me here: <br>
+[LinkedIn](https://linkedin.com/in/giazozula) • [dev.giazozula.com](https://dev.giazozula.com/) • [giazozula.com](https://www.giazozula.com/)
+
